@@ -4,7 +4,7 @@
 https://blogs.sch.gr/chdouvletis/2024/06/15/fysikes-katastrofes-seismos-robostar-4o-nipiagogeio-eykarpias-kai-1o-dimotiko-scholeio-polichnis/
 
 <BR>ΣΥΝΕΡΓΑΤΙΚΟ ΕΡΓΟ:
-<BR>•	4ο 5/θέσιο Νηπιαγωγείο Ευκαρπίας (4 τμήματα)
+<BR>•	4ο 5/θέσιο Νηπιαγωγείο Ευκαρπίας (1 τμήμα)
 <BR>•	1ο Δημοτικό Σχολείο Πολίχνης (2 τμήματα)
 
 <BR>ΠΡΟΤΑΣΗ 
