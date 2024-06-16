@@ -1,6 +1,8 @@
 # Φυσικές Καταστροφές - Σεισμός<br>1ο Δημοτικό Σχολειο Πολίχνης και 4ο Νηπιαγωγείο Ευκαρπίας<BR>
 <BR>Έργο για τον διαγωνισμό ρομποτικής ΕΛΛΑΚ 2023-2024: Σεισμός - Φυσικές Καταστροφές
 
+https://openedtech.ellak.gr/robotics2024/fisikes-katastrofes-sismos-robostarjr-1o-dimotiko-scholio-polichnis-ke-4o-nipiagogio-efkarpias/
+
 https://blogs.sch.gr/chdouvletis/2024/06/15/fysikes-katastrofes-seismos-robostar-4o-nipiagogeio-eykarpias-kai-1o-dimotiko-scholeio-polichnis/
 
 <BR>ΣΥΝΕΡΓΑΤΙΚΟ ΕΡΓΟ:
